@@ -1,4 +1,4 @@
-# KI-KTH-joint-program-defense
+# KI-KTH-joint-programme-defense
 
 This repository summarizes key points to consider when preparing for KI-KTH defense.
 - KI-KTH join program official website:[https://www.kth.se/en/ki-kth-doktorand]

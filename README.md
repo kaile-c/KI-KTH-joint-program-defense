@@ -105,7 +105,7 @@ The final dissertation should include all the publications relevant to your PhD.
 ---
 
 ## Plagiarism Check
-- Use **KI Ithenticate** [https://shibboleth.turnitin.com/shibboleth/ithenticate/swamid]
+- Use **KI Ithenticate** [website](https://shibboleth.turnitin.com/shibboleth/ithenticate/swamid)
 - Use **KTH Ouriginal** for plagiarism checks.  
   - Contact your supervisor (email: [xxx.kth@analys.urkund.se](mailto:xxx.kth@analys.urkund.se)) to submit your PDF.
 

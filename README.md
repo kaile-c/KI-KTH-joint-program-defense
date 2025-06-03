@@ -1,5 +1,5 @@
 ## This repository summarizes key points to consider when preparing for KI-KTH defense.🎓
-- KI-KTH join program official website:[https://www.kth.se/en/ki-kth-doktorand]
+- KI-KTH join program official website:[here](https://www.kth.se/en/ki-kth-doktorand)
 
 ## Thesis
 Theses produced under the Programme shall be of the compilation kind. The thesis should be uploaded in the thesis database of both universities.
@@ -10,19 +10,18 @@ Make sure that it is obvious that the thesis derives from both universities. Thi
 Public defence
 Pre-review, decision on examination board, opponent (examiner), time, venue and other matters related to the public defence of a doctoral thesis shall comply with the rules and procedures in effect at the Home university. Copies of decisions made by the Home University and their underlying documentation shall be sent to the other Party well in advance of the defence date.
 
-KI’s procedures: [https://staff.ki.se/doctoral-education/time-to-defend-your-thesis]
+KI’s procedures:[here](https://staff.ki.se/doctoral-education/time-to-defend-your-thesis)
 
-KTH’s procedures: [https://intra.kth.se/en/forskning/doktorand/forskarstudier/avhandling-disputation-och-examen-1.680207]
+KTH’s procedures:[here](https://intra.kth.se/en/forskning/doktorand/forskarstudier/avhandling-disputation-och-examen-1.680207)
 
-## Checklists (For home university is KI)
-- [https://staff.ki.se/doctoral-education/time-to-defend-your-thesis]
+## Checklists (For home university is KI) [here](https://staff.ki.se/doctoral-education/time-to-defend-your-thesis)
 ---
 
 ## Templates
 
 ### Thesis Templates
-#### KI official template
-- [https://staff.ki.se/doctoral-education/time-to-defend-your-thesis/layout-and-printing-thesis]
+#### KI template
+- **[official](https://staff.ki.se/doctoral-education/time-to-defend-your-thesis/layout-and-printing-thesis)**
 
 #### KTH template
 While KTH does not provide an official thesis template, here are some excellent options:
@@ -60,7 +59,7 @@ The final dissertation should include all the publications relevant to your PhD.
 #### 1. Twelve Weeks Before Your Defense Date:
 - **Submit application for thesis defense:**
 - INSTRUCTION to form 9 [Download here](https://staff.ki.se/media/165895/download)
-- Application Form 9[Download here](Form 9-Eng 2024-03-15 (2).docx](https://github.com/user-attachments/files/20573781/Form.9-Eng.2024-03-15.2.docx)
+- Application Form 9[Download here]([Form 9-Eng 2024-03-15 (2).docx](https://github.com/user-attachments/files/20575145/Form.9-Eng.2024-03-15.2.docx))
   
 - **Prepare committee documents:**
   - a CV and a list of publications for opponent/committee members
@@ -87,7 +86,7 @@ The final dissertation should include all the publications relevant to your PhD.
 #### 5. Three Weeks Before Your Defense Date:
 ![image](https://github.com/user-attachments/assets/5f20e8c1-5cc9-43ec-be0d-83127051283e)
 - **open archive (KI)**
-- [https://openarchive.ki.se/]
+  - [website here](https://openarchive.ki.se/)
 - **Diva Submission (KTH):**  
   - Write a 2000-character mini-abstract for Diva.
   - Nailing ("make it public") and upload to Diva.

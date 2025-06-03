@@ -59,24 +59,26 @@ The final dissertation should include all the publications relevant to your PhD.
 
 ### Key Preparations (Follow Checklist)
 
-#### 1. 12 Weeks Before Your Defense Date:
+#### 1. Twelve Weeks Before Your Defense Date:
 - **Submit application for thesis defense:**
 - INSTRUCTION to form 9 [Download here] [https://staff.ki.se/media/165895/download]
 - Application Form 9[Download here] [Form 9-Eng 2024-03-15 (2).docx](https://github.com/user-attachments/files/20573781/Form.9-Eng.2024-03-15.2.docx)]
+  
 - **Prepare committee documents:**
   - a CV and a list of publications for opponent/committee members
   - details [Download here] [https://staff.ki.se/media/731/download]
+    
 - **TRITA and ISBN:**
   - Get TRITA from Fredrik.
   - Apply for ISBN [here](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/bestall-isbn-1.854778).
-#### 2. 10 Weeks Before Your Defense Date:
+    
+#### 2. Ten Weeks Before Your Defense Date:
+![image](https://github.com/user-attachments/assets/c68f747f-f981-4161-83c3-c901dc86a9e7)
 
-![image](https://github.com/user-attachments/assets/7b78c06a-4e2f-406e-aafa-e5fa6ef83cec)
-
-#### 3. 9 Weeks Before Your Defense Date:
+#### 3. Nine Weeks Before Your Defense Date:
 ![image](https://github.com/user-attachments/assets/1ba7701b-dff9-4b2f-8e08-1f316484303f)
 
-#### 4. 6 Weeks Before Your Defense Date:
+#### 4. Six Weeks Before Your Defense Date:
 ![image](https://github.com/user-attachments/assets/79ace349-a866-4982-a00b-c71c3d542f9e)
 - **Thesis cover:** Optional but recommended [download here] [[Template](https://www.kth.se/polopoly_fs/1.1401089.1745911678!/Thesis%20Cover%20and%20Title%20Sheet.pdf.)]
 - **Printing:** Print at least 30 copies via US-AB.
@@ -84,7 +86,7 @@ The final dissertation should include all the publications relevant to your PhD.
     - Kappa only
     - Kappa + Papers
   
-#### 5. 3 Weeks Before Your Defense Date:
+#### 5. Three Weeks Before Your Defense Date:
 ![image](https://github.com/user-attachments/assets/5f20e8c1-5cc9-43ec-be0d-83127051283e)
 -**open archive (KI)**
 [https://openarchive.ki.se/]

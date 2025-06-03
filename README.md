@@ -88,9 +88,8 @@ The final dissertation should include all the publications relevant to your PhD.
   
 #### 5. Three Weeks Before Your Defense Date:
 ![image](https://github.com/user-attachments/assets/5f20e8c1-5cc9-43ec-be0d-83127051283e)
--**open archive (KI)**
-[https://openarchive.ki.se/]
-
+- **open archive (KI)**
+- [https://openarchive.ki.se/]
 - **Diva Submission (KTH):**  
   - Write a 2000-character mini-abstract for Diva.
   - Nailing ("make it public") and upload to Diva.
